@@ -82,6 +82,7 @@ span {
 .project-one{
 text-align: center;
 margin-top: 90px;
+
 }
 
 .project-two{
@@ -92,6 +93,12 @@ margin-top: 90px;
 .project-three{
     text-align: center;
     margin-top: 90px;
+}
+
+.group-project{
+    text-align: center;
+    margin-top: 90px;
+    font-family: "Geneva", "Verdana", "sans-serif";
 }
 
 #project-one-id {
